@@ -724,11 +724,11 @@
 	<art pushRadius="200" scale="0.22" specularFile="dat/TSN/Unakalhai/USN_specular.png" glowFile="dat/TSN/Unakalhai/USN_blue_illum.png" diffuseFile="dat/TSN/Unakalhai/USN_blue_diffuse.png" meshfile="dat/TSN/Unakalhai/Gallu.dxs"/>
 	<internal_data file="dat/TSN/Unakalhai/Gallu_Command.snt"/>
 	<!-- Shields/Beams Updated for Hull Tuning -->
-	<shields back="40" front="40"/>
+	<shields back="20" front="20"/>
 	<carrierload bomber="2" baycount="4"/>
 	<performance jumpefficiency="1.0" warpefficiency="0.6" shipefficiency="1.0" topspeed="0.65" turnrate="0.004"/>
-	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="6" damage="3" z="300" y="-2" x="132"/>
-	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="6" damage="3" z="300" y="-2" x="-132"/>
+	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="3" damage="3" z="300" y="-2" x="132"/>
+	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="3" damage="3" z="300" y="-2" x="-132"/>
 	<!-- INSERT TORPEDO SPECS -->
 	<torpedo_tube z="-97" y="0" x="0"/>
 	<torpedo_tube z="-97" y="0" x="0"/>
@@ -767,12 +767,12 @@
 	<art pushRadius="200" scale="0.225" specularFile="dat/TSN/Unakalhai/USN_specular.png" glowFile="dat/TSN/Unakalhai/USN_illum.png" diffuseFile="dat/TSN/Unakalhai/USN_diffuse.png" meshfile="dat/TSN/Unakalhai/Gallu.dxs"/>
 	<internal_data file="dat/TSN/Unakalhai/Gallu_Battlecruiser.snt"/>
 	<!-- Shields/Beams Updated for Hull Tuning -->
-	<shields back="35" front="70"/>
+	<shields back="18" front="33"/>
 	<performance jumpefficiency="1.0" warpefficiency="0.6" shipefficiency="1.0" topspeed="0.6" turnrate="0.0037"/>
-	<beam_port range="1100" cycletime="6.0" arcwidth="0.35" playerdamage="6" damage="3" z="313.19" y="0" x="118.15"/>
-	<beam_port range="1100" cycletime="6.0" arcwidth="0.35" playerdamage="6" damage="3" z="313.19" y="0" x="-118.15"/>
-	<beam_port range="950" cycletime="12.0" arcwidth="0.25" playerdamage="24" damage="9" z="105.74" y="0" x="164.87"/>
-	<beam_port range="950" cycletime="12.0" arcwidth="0.25" playerdamage="24" damage="9" z="105.74" y="0" x="-164.87"/>
+	<beam_port range="1100" cycletime="6.0" arcwidth="0.35" playerdamage="3" damage="3" z="313.19" y="0" x="118.15"/>
+	<beam_port range="1100" cycletime="6.0" arcwidth="0.35" playerdamage="3" damage="3" z="313.19" y="0" x="-118.15"/>
+	<beam_port range="950" cycletime="12.0" arcwidth="0.25" playerdamage="12" damage="9" z="105.74" y="0" x="164.87"/>
+	<beam_port range="950" cycletime="12.0" arcwidth="0.25" playerdamage="12" damage="9" z="105.74" y="0" x="-164.87"/>
 	<!-- INSERT TORPEDO SPECS -->
 	<torpedo_tube z="-97" y="0" x="0"/>
 	<torpedo_tube z="-97" y="0" x="0"/>
@@ -811,11 +811,11 @@
 	<art pushRadius="200" scale="0.225" specularFile="dat/TSN/Unakalhai/USN_specular.png" glowFile="dat/TSN/Unakalhai/USN_illum.png" diffuseFile="dat/TSN/Unakalhai/USN_diffuse.png" meshfile="dat/TSN/Unakalhai/Gallu.dxs"/>
 	<internal_data file="dat/TSN/Unakalhai/Gallu_Command.snt"/>
 	<!-- Shields/Beams Updated for Hull Tuning -->
-	<shields back="40" front="40"/>
+	<shields back="20" front="20"/>
 	<carrierload fighter="5" baycount="5"/>
 	<performance jumpefficiency="1.0" warpefficiency="0.6" shipefficiency="1.0" topspeed="0.6" turnrate="0.0035"/>
-	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="6" damage="3" z="300" y="-2" x="132"/>
-	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="6" damage="3" z="300" y="-2" x="-132"/>
+	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="3" damage="3" z="300" y="-2" x="132"/>
+	<beam_port range="1000" cycletime="6.0" arcwidth="0.4" playerdamage="3" damage="3" z="300" y="-2" x="-132"/>
 	<!-- INSERT TORPEDO SPECS -->
 	<torpedo_tube z="-97" y="0" x="0"/>
 	<torpedo_tube z="-97" y="0" x="0"/>
@@ -854,12 +854,12 @@
 	<art pushRadius="180" scale="0.200" specularFile="dat/TSN/Unakalhai/USN_specular.png" glowFile="dat/TSN/Unakalhai/USN_illum.png" diffuseFile="dat/TSN/Unakalhai/USN_diffuse.png" meshfile="dat/TSN/Unakalhai/Gallu.dxs"/>
 	<internal_data file="dat/TSN/Unakalhai/Gallu_Interceptor.snt"/>
 	<!-- Shields/Beams Updated for Hull Tuning -->
-	<shields back="35" front="35"/>
+	<shields back="18" front="18"/>
 	<performance jumpefficiency="1.0" warpefficiency="0.6" shipefficiency="1.05" topspeed="1.0" turnrate="0.0068"/>
-	<beam_port range="1100" cycletime="6" arcwidth="0.33" playerdamage="4" damage="2" z="340.17" y="-2" x="41"/>
-	<beam_port range="1100" cycletime="6" arcwidth="0.33" playerdamage="4" damage="2" z="340.17" y="-2" x="-41"/>
-	<beam_port range="800" cycletime="6" arcwidth="0.25" playerdamage="8" damage="3.5" z="330.15" y="-2" x="82"/>
-	<beam_port range="800" cycletime="6" arcwidth="0.25" playerdamage="8" damage="3.5" z="330.15" y="-2" x="-82"/>
+	<beam_port range="1100" cycletime="6" arcwidth="0.33" playerdamage="2" damage="2" z="340.17" y="-2" x="41"/>
+	<beam_port range="1100" cycletime="6" arcwidth="0.33" playerdamage="2" damage="2" z="340.17" y="-2" x="-41"/>
+	<beam_port range="800" cycletime="6" arcwidth="0.25" playerdamage="4" damage="3.5" z="330.15" y="-2" x="82"/>
+	<beam_port range="800" cycletime="6" arcwidth="0.25" playerdamage="4" damage="3.5" z="330.15" y="-2" x="-82"/>
 	<!-- INSERT TORPEDO SPECS -->
 	<torpedo_tube z="-97" y="0" x="0"/>
 	<torpedo_storage amount="9" type="trp"/>
@@ -903,10 +903,10 @@
 	<art pushRadius="200" scale="0.225" specularFile="dat/TSN/Unakalhai/USN_specular.png" glowFile="dat/TSN/Unakalhai/USN_illum.png" diffuseFile="dat/TSN/Unakalhai/USN_diffuse.png" meshfile="dat/TSN/Unakalhai/Night.dxs"/>
 	<internal_data file="dat/TSN/Unakalhai/Night_Torpedo.snt"/>
 	<!-- Shields/Beams Updated for Hull Tuning -->
-	<shields back="30" front="35"/>
+	<shields back="15" front="18"/>
 	<performance jumpefficiency="1.0" warpefficiency="0.6" shipefficiency="1.12" topspeed="0.63" turnrate="0.004"/>
-	<beam_port range="1100" cycletime="6.0" arcwidth="0.33" playerdamage="6" damage="0.6" z="308.31" y="2.20" x="-43.08"/>
-	<beam_port range="1100" cycletime="6.0" arcwidth="0.33" playerdamage="6" damage="0.6" z="308.31" y="2.20" x="43.08"/>
+	<beam_port range="1100" cycletime="6.0" arcwidth="0.33" playerdamage="3" damage="0.6" z="308.31" y="2.20" x="-43.08"/>
+	<beam_port range="1100" cycletime="6.0" arcwidth="0.33" playerdamage="3" damage="0.6" z="308.31" y="2.20" x="43.08"/>
 	<torpedo_tube z="-97" y="0" x="0"/>
 	<torpedo_tube z="-97" y="0" x="0"/>
 	<torpedo_tube z="-97" y="0" x="0"/>
@@ -939,11 +939,11 @@
 	<art pushRadius="200" scale="0.225" specularFile="dat/TSN/Unakalhai/USN_specular.png" glowFile="dat/TSN/Unakalhai/USN_illum.png" diffuseFile="dat/TSN/Unakalhai/USN_diffuse.png" meshfile="dat/TSN/Unakalhai/Gladi.dxs"/>
 	<internal_data file="dat/TSN/Unakalhai/Gladi_Strike.snt"/>
 	<!-- Shields/Beams Updated for Hull Tuning -->
-	<shields back="40" front="40"/>
+	<shields back="20" front="20"/>
 	<performance jumpefficiency="1.0" warpefficiency="0.6" shipefficiency="1.0" topspeed="0.65" turnrate="0.0045"/>
-	<beam_port range="800" cycletime="21.0" arcwidth="0.12" playerdamage="20" damage="9" z="267" y="14" x="0"/>
-	<beam_port range="800" cycletime="21.0" arcwidth="0.12" playerdamage="20" damage="9" z="280" y="0" x="0"/>
-	<beam_port range="800" cycletime="21.0" arcwidth="0.12" playerdamage="20" damage="9" z="267" y="-14" x="0"/>
+	<beam_port range="800" cycletime="21.0" arcwidth="0.12" playerdamage="10" damage="9" z="267" y="14" x="0"/>
+	<beam_port range="800" cycletime="21.0" arcwidth="0.12" playerdamage="10" damage="9" z="280" y="0" x="0"/>
+	<beam_port range="800" cycletime="21.0" arcwidth="0.12" playerdamage="10" damage="9" z="267" y="-14" x="0"/>
 	<beam_port range="1100" cycletime="4.8" arcwidth="0.34" playerdamage="1.0" damage="0.5" z="105.74" y="0" x="144.87"/>
 	<beam_port range="1100" cycletime="4.8" arcwidth="0.34" playerdamage="1.0" damage="0.5" z="105.74" y="0" x="-144.87"/>
 	<torpedo_tube z="-97" y="0" x="0"/>
@@ -1166,6 +1166,77 @@
     <maneuver_point x="-177" y="-6" z="-132"/>
     <maneuver_point x=" 177" y="-6" z="-132"/>
     <long_desc text="Displacement: 0.015 kt. Armament: 2 light beams."/>
+  </vessel>
+
+  <vessel    uniqueID="210"    side="23"   classname="Superiority Fighter" broadType="player singleseat fighter">
+      <art meshfile="dat/TSNFighter.dxs"    diffuseFile="dat/LightCruiser_Diffuse.png"
+      glowFile="dat/LightCruiser_Glow.png" specularFile="dat/LightCruiser_Specular.png" scale="0.2" pushRadius="50"/>
+      <!-- Shields/Beams Updated for Hull Tuning -->
+      <shields front="0" back="0" player="30"/>
+      <!-- for fighters, front shield here is actually total HP-->
+      <performance turnrate="0.025" topspeed="2.0" shipefficiency="1.0" warpefficiency="1.0" jumpefficiency="1.0"/>
+      <beam_port x="0" y="0" z="0" damage="0.6" playerdamage="3" arcwidth="0.2" cycletime="0.8" range="1200"/>
+      <engine_port x="-15.533172" y="-3.027038" z="-50.354633"/>
+      <engine_port x=" 15.533172" y="-3.027038" z="-50.354633"/>
+      <torpedo_storage type="trp" amount="0"/>
+      <!-- Type 1 Homing"-->
+      <long_desc text="Imperial Superiority Fighter^Warp-capable fighter armed with a rapid pulse beam."/>
+  </vessel>
+  
+  <vessel    uniqueID="211"    side="23"       classname="Strike Bomber" broadType="player singleseat bomber">
+      <art     meshfile="dat/TSNFighter.dxs"    diffuseFile="dat/LightCruiser_Diffuse.png"
+      glowFile="dat/LightCruiser_Glow.png"    specularFile="dat/LightCruiser_Specular.png" scale="0.2" pushRadius="50"/>
+      <!-- Shields/Beams Updated for Hull Tuning -->
+      <shields front="0" back="0" player="30"/>
+      <!-- for fighters, front shield here is actually total HP-->
+      <performance turnrate="0.020" topspeed="1.7" shipefficiency="1.0" warpefficiency="1.0" jumpefficiency="1.0"/>
+      <beam_port x="0" y="0" z="0" damage="4" playerdamage="18" arcwidth="0.1" cycletime="8" range="600"/>
+      <engine_port x="-15.533172" y="-3.027038" z="-50.354633"/>
+      <engine_port x=" 15.533172" y="-3.027038" z="-50.354633"/>
+      <torpedo_storage type="trp" amount="1"/>
+      <!-- Type 1 Homing"-->
+      <long_desc text="Imperial Strike Bomber^Armored strike craft with a miniaturized Triple Ion beam and single torpedo."/>
+  </vessel>
+  
+  <vessel    uniqueID="212"    side="23"       classname="Fighter/Bomber" broadType="player singleseat fighter">
+      <art     meshfile="dat/TSNFighter.dxs"    diffuseFile="dat/LightCruiser_Diffuse.png"
+      glowFile="dat/LightCruiser_Glow.png"    specularFile="dat/LightCruiser_Specular.png" scale="0.2" pushRadius="50"/>
+      <!-- Shields/Beams Updated for Hull Tuning -->
+      <shields front="0" back="0" player="30"/>
+      <!-- for fighters, front shield here is actually total HP-->
+      <performance turnrate="0.015" topspeed="1.4" shipefficiency="1.0" warpefficiency="1.0" jumpefficiency="1.0"/>
+      <beam_port x="0" y="0" z="0" damage="0.4" playerdamage="2" arcwidth="0.1" cycletime="0.8" range="1000"/>
+      <engine_port x="-15.533172" y="-3.027038" z="-50.354633"/>
+      <engine_port x=" 15.533172" y="-3.027038" z="-50.354633"/>
+      <torpedo_storage type="trp" amount="3"/>
+      <!-- Type 1 Homing"-->
+      <long_desc text="Imperial Fighter/Bomber^Long range bomber armed with three homing torpedoes and a light rapid pulse beam."/>
+  </vessel>
+  
+  <vessel    uniqueID="213"    side="23"       classname="Shuttle" broadType="player singleseat shuttle">
+      <art     meshfile="dat/TSNShuttle.dxs"    diffuseFile="dat/LightCruiser_Diffuse.png"
+      glowFile="dat/LightCruiser_Glow.png"    specularFile="dat/LightCruiser_Specular.png" scale="0.2" pushRadius="50"/>
+      <!-- Shields/Beams Updated for Hull Tuning -->
+      <shields front="0" back="0" player="55"/>
+      <!-- for fighters, front shield here is actually total HP-->
+      <performance turnrate="0.020" topspeed="1.8" shipefficiency="1.0" warpefficiency="1.0" jumpefficiency="1.0"/>
+      <beam_port x="0" y="0" z="0" damage="0.5" playerdamage="3" arcwidth="0.1" cycletime="4" range="1200"/>
+      <engine_port x="-15.533172" y="-3.027038" z="-50.354633"/>
+      <engine_port x=" 15.533172" y="-3.027038" z="-50.354633"/>
+      <long_desc text="Imperial Shuttle^Armed only with a medium pulse beam, this shuttle is designed to move cargo and people over short distances."/>
+  </vessel>
+  
+  <vessel    uniqueID="214"    side="23"       classname="Warp Shuttle" broadType="player singleseat shuttle">
+      <art     meshfile="dat/TSNShuttle.dxs"    diffuseFile="dat/LightCruiser_Diffuse.png"
+      glowFile="dat/LightCruiser_Glow.png"    specularFile="dat/LightCruiser_Specular.png" scale="0.2" pushRadius="50"/>
+      <!-- Shields/Beams Updated for Hull Tuning -->
+      <shields front="0" back="0" player="55"/>
+      <!-- for fighters, front shield here is actually total HP-->
+      <performance turnrate="0.020" topspeed="2.5" shipefficiency="1.0" warpefficiency="1.0" jumpefficiency="1.0"/>
+      <beam_port x="0" y="0" z="0" damage="0.4" playerdamage="4" arcwidth="0.1" cycletime="6.5" range="1200"/>
+      <engine_port x="-15.533172" y="-3.027038" z="-50.354633"/>
+      <engine_port x=" 15.533172" y="-3.027038" z="-50.354633"/>
+      <long_desc text="Imperial Warp Shuttle^Armed only with a slow pulse beam, this shuttle is designed to rapidly move cargo and people over longer distances."/>
   </vessel>
   
   <!-- ****************************** unmoving bases 1000 - 1008**************************************** -->
